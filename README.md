@@ -1,15 +1,10 @@
-# aiBeat
-
-Prototipo de aplicación de teleasistencia para la monitorización de pacientes sometidos a una rehabilitación cardiaca. El sistema, aparte de contar con la plataforma de IoT, trabaja con algoritmos de aprendizaje automático para la predicción de eventos cardiovasculares en base a la evolución de los parámetros fisiopatológicos del paciente y otros factores relevantes.
-
-
 # aiBeat - Aplicación de teleasistencia para la rehabilitación cardiaca
 
 ### **Descripción del proyecto:**
   - Temática: 💻👨‍⚕️🫀 Rehabilitación cardiaca, sensorización biomédica, teleasistencia, diseño ágil de aplicaciones, gestión de BBDD, minería de datos biomédicos.
   - Softwares empleados: Arduino, ThoriumBuilder.
 
-| <img src="https://user-images.githubusercontent.com/79250883/250938412-fedfcded-95ea-4639-ae55-0f261f4f3d31.png" alt="Biosensor Cutáneo" width="600" height="auto"> |Aplicación de teleasistencia para la monitorización de pacientes sometidos a una rehabilitación cardiaca. El sistema, aparte de contar con la plataforma de IoT, trabaja con algoritmos de aprendizaje automático para la predicción de eventos cardiovasculares en base a la evolución de los parámetros fisiopatológicos del paciente y otros factores relevantes.|
+| <img src="https://user-images.githubusercontent.com/79250883/250941517-59798c4d-9bc8-4af6-b5db-cbfc8381cd90.png" alt="Biosensor Cutáneo" width="600" height="auto"> |Aplicación de teleasistencia para la monitorización de pacientes sometidos a una rehabilitación cardiaca. El sistema, aparte de contar con la plataforma de IoT, trabaja con algoritmos de aprendizaje automático para la predicción de eventos cardiovasculares en base a la evolución de los parámetros fisiopatológicos del paciente y otros factores relevantes.|
 |---|---|
 
 
