@@ -1,7 +1,7 @@
 # aiBeat - Aplicación de teleasistencia para la rehabilitación cardiaca
 
-### **Descripción del proyecto:**
-  - Temática: 💻👨‍⚕️🫀 Rehabilitación cardiaca, sensorización biomédica, teleasistencia, diseño ágil de aplicaciones, gestión de BBDD, minería de datos biomédicos.
+### **Descripción del proyecto: 💻👨‍⚕️🫀**
+  - Temática: Rehabilitación cardiaca, sensorización biomédica, teleasistencia, diseño ágil de aplicaciones, gestión de BBDD, minería de datos biomédicos.
   - Softwares empleados: Arduino, ThoriumBuilder.
     
 ### **Reconocimientos y premios:**
